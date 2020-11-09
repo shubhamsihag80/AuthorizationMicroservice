@@ -1,0 +1,17 @@
+INFO  01:55:09 Application started. Press Ctrl+C to shut down.
+INFO  01:55:09 Application started. Press Ctrl+C to shut down.
+INFO  01:55:09 Hosting environment: Development
+INFO  01:55:09 Hosting environment: Development
+INFO  01:55:09 Content root path: C:\Users\sud44\OneDrive\Desktop\UI\Authorization
+INFO  01:55:09 Content root path: C:\Users\sud44\OneDrive\Desktop\UI\Authorization
+INFO  01:55:25 Login method invoked, Username : john@123
+ERROR 01:55:31 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:13:20 Login method invoked, Username : john@123
+INFO  09:08:32 Application started. Press Ctrl+C to shut down.
+INFO  09:08:32 Application started. Press Ctrl+C to shut down.
+INFO  09:08:32 Hosting environment: Development
+INFO  09:08:32 Hosting environment: Development
+INFO  09:08:32 Content root path: C:\Users\sud44\OneDrive\Desktop\UI\Authorization
+INFO  09:08:32 Content root path: C:\Users\sud44\OneDrive\Desktop\UI\Authorization
+INFO  09:10:01 Login method invoked, Username : john@123
+INFO  09:10:02 CheckCredential method invoked.

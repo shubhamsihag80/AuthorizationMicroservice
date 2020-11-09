@@ -1,0 +1,345 @@
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+D:\MFPE\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+D:\MFPE\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\sud44\OneDrive\Desktop\new pull\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\sud44\OneDrive\Desktop\UI\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.yaml
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\sud44\OneDrive\Desktop\CloudDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.yaml
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\sud44\OneDrive\Desktop\Deploy\AuthDeploy\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
